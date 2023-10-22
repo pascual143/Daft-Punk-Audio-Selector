@@ -1,0 +1,28 @@
+body {
+  background: black;
+}
+
+img {
+  height: 400px;
+  width: 400px;
+  justify-content: center;
+  align-items: center;
+}
+header {
+  text-align: center;
+}
+main {
+  max-width: 800px;
+  text-align: center;
+  }
+button {
+  border-radius: 7px;
+  height: 30px;
+  width: 70px;
+  justify-content: center;
+  margin: 7px;
+}
+
+audio {
+  justify-content: center;
+ }
